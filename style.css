@@ -51,3 +51,9 @@ h1 {
     padding: 10px 20px;
     margin: 15px 30px;
 }
+/* Height, Width & Overflow */
+.overflow-box {
+    width: 200px;
+    height: 100px;
+    overflow: auto;
+}
