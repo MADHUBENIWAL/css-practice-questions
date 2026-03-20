@@ -1,0 +1,11 @@
+/* Change Text Color and Background */
+p {
+    color: blue;
+    background-color: lightgrey;
+}
+/* Use Class and ID Selectors */
+.box {
+    width: 200px;
+    height: 100px;
+    background-color: lightblue;
+}
