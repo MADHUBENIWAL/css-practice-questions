@@ -38,3 +38,11 @@ a {
 a:hover {
     text-decoration: underline wavy red;
 }
+/* RGB and Hex Color Practice */
+p {
+    color: rgb(255, 0, 0);
+}
+
+h1 {
+    background-color: #000000;
+}
