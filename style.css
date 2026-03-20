@@ -25,3 +25,8 @@ h1 {
     font-weight: bold;
     text-transform: uppercase;
 }
+/* Font Styling */
+body {
+    font-family: 'Poppins', 'Roboto', Arial, sans-serif;
+    font-size: 16px;
+}
