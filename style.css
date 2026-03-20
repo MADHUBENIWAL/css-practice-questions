@@ -46,3 +46,8 @@ p {
 h1 {
     background-color: #000000;
 }
+/* Padding & Margin Shorthand */
+.card {
+    padding: 10px 20px;
+    margin: 15px 30px;
+}
